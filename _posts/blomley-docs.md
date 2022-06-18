@@ -1,6 +1,5 @@
 ---
 title: Blomley Docs
-date: 2022-06-17 0
 categories: [docs]
 tags: [docs]
 ---
@@ -62,8 +61,4 @@ while randomvariable == 1:
  else:
      print("Sorry This is not an option")
      break
-
-
-
-
 ```
